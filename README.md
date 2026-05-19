@@ -1,14 +1,36 @@
 # jar-string-editor
 
+### Running Locally
 
-##### Rodando localmente:
-Requisitos: `node`, `yarn (ou npm)`
-- Clone o repositório usando: `git clone https://github.com/leonardosnt/jar-string-editor`
-- Vá até o diretório usando: `cd jar-string-editor`
-- Instale as dependências usando: `yarn`
-- Inicie o servidor de testes usando: `yarn start`
-- Editar o código e o site será automaticamente recarregado.
+Requirements: `node`, `yarn` (or `npm`)
+
+* Clone the repository:
+
+  ```bash
+  git clone https://github.com/leonardosnt/jar-string-editor
+  ```
+
+* Go to the project directory:
+
+  ```bash
+  cd jar-string-editor
+  ```
+
+* Install dependencies:
+
+  ```bash
+  yarn
+  ```
+
+* Start the development server:
+
+  ```bash
+  yarn start
+  ```
+
+* Edit the code and the website will automatically reload.
 
 ## License
-Copyright (C) leonardosnt <leonrdsnt@gmail.com>  
-Licensed under the GPL-2.0 license. See LICENSE file in the project root for full license information.
+
+Copyright (C) leonardosnt [leonrdsnt@gmail.com](mailto:leonrdsnt@gmail.com)
+Licensed under the GPL-2.0 license. See the `LICENSE` file in the project root for full license information.
